@@ -1,3 +1,5 @@
+baseURL = "https://winnipegaws.ca/"
+
 [build]
   command = "hugo"
   publish = "public"
@@ -8,3 +10,4 @@
 
 [context.production.environment]
   HUGO_ENV = "production"
+
