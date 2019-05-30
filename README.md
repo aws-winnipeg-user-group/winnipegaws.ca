@@ -1,3 +1,8 @@
+# WinnipegAWS.ca
+
+This repo is/was a repo cloned from the Academic Kickstart theme below. In this repo, we use a `git worktree` directory on the `public/` directory which has the `gh-pages` branch checked out. Changes are generated and published to the `public/` directory and then committed in that branch, and finally the generated html/css/js is pushed up to github. See the `commit-gh-pages-files.sh` for details.
+
+
 # [Academic Kickstart](https://sourcethemes.com/academic/)
 
 **Academic** makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs. [Check out the latest demo](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the showcase](https://sourcethemes.com/academic/#expo).
