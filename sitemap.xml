@@ -3,43 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>/</loc>
+    <loc>https://winnipegaws.ca/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>https://winnipegaws.ca/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
+    <loc>https://winnipegaws.ca/</loc>
     <priority>0</priority>
   </url>
   
